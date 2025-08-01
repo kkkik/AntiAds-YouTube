@@ -1,4 +1,4 @@
-# AntiAds-YouTube
+# AntiAds-YouTube & AntiShorts
 Shadowrocket .ini config, Disables the Ads(out video) banners, and other advertisements.
 
 
@@ -10,3 +10,5 @@ Shadowrocket .ini config, Disables the Ads(out video) banners, and other adverti
 <p align="center">
   <img src="./IMG_1580.jpeg" alt="Note" width="300" />
 </p>
+AntiShorts (shorts.conf) is available in same repo, same use.
+Enjoy.
