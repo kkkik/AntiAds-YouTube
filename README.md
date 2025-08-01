@@ -8,5 +8,5 @@ Shadowrocket .ini config, Disables the Ads(out video) banners, and other adverti
 ##Note:
     You can use it even when HTTP Decryption disabled! See down
 <p align="center">
-  <img src="IMG_1580.jpeg" alt="note preview" width="300" />
+  <img src="./IMG_1580.jpeg" alt="Note" width="300" />
 </p>
